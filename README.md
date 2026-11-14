@@ -1,30 +1,18 @@
-# Hi, I'm Kayla Williams 👋
+# Kayla Williams
 
-Program and operations manager with a background in data analysis, community development, and systems-building. I'm drawn to work at the intersection of technology, equity, and social impact — and I believe in building the operational infrastructure that lets mission-driven teams actually do their best work.
+I’m a Brooklyn-based program manager and data strategist. I build reporting systems for multi-partner initiatives, analyze public data to inform program decisions, and design operating processes with community and public-sector partners.
 
-I studied Political Science at Stanford with concentrations in Data Science and Political Economy & Development. Since graduating, I've managed large grantee portfolios, built reporting systems, and provided technical assistance to organizations working on economic mobility, community capacity, and youth development.
+## Selected work
 
----
+| Project | What it shows |
+| --- | --- |
+| [Brooklyn Community Needs Assessment](https://github.com/kwilliams21509/RFC) | Used R to map barriers to access across Brooklyn and identify areas for Rose from Concrete to explore for programming. The analysis combines ACS, PUMS, and NYCHA data with a composite index and interactive maps. |
+| [Partner Reporting Workflow](work-samples/partner-reporting-workflow.md) | Defined a performance measure, mapped the handoffs from submission to dashboard, and drafted a leadership update. The example uses fictional records to demonstrate how I handle revisions, reporting coverage, and overlapping counts. |
+| [Flint Environmental and Community Profile](https://github.com/kwilliams21509/EVC) | Combined historical research, ACS data, and R visualizations to put demographic and socioeconomic patterns in context for a Flint community profile. |
 
-## What's here
+## About me
 
-**[EVC — Flint Water Crisis: Environmental & Community Profile](https://github.com/kwilliams21509/EVC)**
-Analysis of demographic and environmental indicators surrounding the Flint, MI water crisis using 2021 ACS data. Built in R with tidycensus and ggplot2.
+My work spans grant reporting, community research, and operations for multi-partner programs. I studied Political Science at Stanford, with concentrations in Data Science and Political Economy & Development.
 
-**[RFC — Brooklyn Community Needs Assessment](https://github.com/kwilliams21509/RFC)**
-Community-facing data analysis for Rose from Concrete, a Brooklyn grassroots org. Maps poverty, internet access, non-citizen households, and children by census tract; builds a composite vulnerability index to identify priority programming areas. Uses ACS data, PUMS microdata, NYCHA housing data, Mahalanobis matching, and interactive leaflet maps.
+**Tools** · R, Python, Excel, Salesforce, Power BI, Tableau, Looker, Asana
 
----
-
-## Tech stack
-
-`R` · `Python` · `SQL` · `Salesforce` · `Power BI` · `Tableau` · `Excel / Google Sheets`
-
----
-
-## A bit more about me
-
-- 🏙️ Based in Brooklyn, NY
-- 📊 I care about data integrity — I notice when a tracker is stale and can't leave it that way
-- 🌱 Co-founder of [Rose from Concrete](https://github.com/kwilliams21509/RFC), a grassroots org serving Brooklyn communities since 2020
-- 📫 Reach me at kaylastwilliams@gmail.com
